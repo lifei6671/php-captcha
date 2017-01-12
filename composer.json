@@ -18,5 +18,6 @@
   },
   "autoload": {
     "psr-4": { "Minho\\Captcha\\": "src/" }
-  }
+  },
+  "minimum-stability": "dev"
 }
