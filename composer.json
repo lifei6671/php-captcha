@@ -2,7 +2,6 @@
   "name": "lifei6671/php-captcha",
   "description": "One php captcha",
   "keywords": ["captcha"],
-  "version": "0.1",
   "homepage": "https://github.com/lifei6671/php-captcha",
   "license": "MIT",
   "authors": [

@@ -1,7 +1,6 @@
 <?php
 include __DIR__ . '/../autoload.php';
 
-
 use Minho\Captcha\CaptchaBuilder;
 
 $captch = new CaptchaBuilder();
