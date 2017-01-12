@@ -18,7 +18,7 @@
 ```json
 {
     "require": {
-            "lifei6671/php-captcha": "0.*"
+            "lifei6671/php-captcha": "0.1.*"
     }
 }
 ```
