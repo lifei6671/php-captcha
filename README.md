@@ -86,3 +86,6 @@ $captch->save('1.png',1);
 
 $_SESSION['captch'] = $captch->getText();
 ```
+## 正在使用
+
+[SmartWiki文档管理系统](https://www.iminho.me)
